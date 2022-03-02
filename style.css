@@ -5,6 +5,11 @@ body {
 }
 
 h1 {
-    padding-top: 5px;
-    font-size: 5px;
+    padding-top: 5rem;
+    font-size: 5rem;
+}
+
+#disqus_thread {
+margin: 2rem auto;
+max-width: 600px;
 }
